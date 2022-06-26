@@ -1,7 +1,7 @@
 # Awesome-GithubRepos
 ![AwesomeViewers](https://visitor-badge.glitch.me/badge?page_id=sunilrai486.AwesomeGithubRepos&left_color=green&right_color=red)
 
-## This repo contains the list of awesome repo present in github.
+## This repo contains the list of awesome repo present in github. A tribute to the freely available awesome educational resources.
 
 1. [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge). This repo contains the collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 2. [Dolt](https://github.com/dolthub/dolt). Dolt – It's Git for Data
