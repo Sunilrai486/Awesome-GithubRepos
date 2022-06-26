@@ -1,4 +1,4 @@
-# Awesome-GithubRepo
+# Awesome-GithubRepos
 
 ## This repo contains the list of awesome repo present in github.
 
