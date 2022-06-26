@@ -1,5 +1,5 @@
 # Awesome-GithubRepos
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sunilrai486.AwesomeGithubRepos&left_color=green&right_color=red)
+![AwesomeViewers](https://visitor-badge.glitch.me/badge?page_id=sunilrai486.AwesomeGithubRepos&left_color=green&right_color=red)
 
 ## This repo contains the list of awesome repo present in github.
 
