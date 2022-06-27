@@ -27,3 +27,26 @@
 22. [zulip](https://github.com/zulip/zulip). Zulip server and web app—powerful open source team chat
 23. [cupy](https://github.com/cupy/cupy). NumPy & SciPy for GPU
 24. [budibase](https://github.com/Budibase/budibase). Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡
+25. [public apis](https://github.com/public-apis/public-apis). A collective list of free APIs
+26. [gophish](https://github.com/gophish/gophish). Open-Source Phishing Toolkit
+27. [free programming books](https://github.com/EbookFoundation/free-programming-books). 📚 Freely available programming books
+28. [python patterns](https://github.com/faif/python-patterns). A collection of design patterns/idioms in Python
+29. [devops exercises](https://github.com/bregman-arie/devops-exercises). Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+30. [smartknob](https://github.com/scottbez1/smartknob). Haptic input knob with software-defined endstops and virtual detents
+31. [tldraw](https://github.com/tldraw/tldraw). A tiny little drawing app.
+32. [javascript algorithms](https://github.com/trekhleb/javascript-algorithms). 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+33. [developer roadmap](https://github.com/kamranahmedse/developer-roadmap). Roadmap to becoming a developer in 2022
+34. [Rust](https://github.com/TheAlgorithms/Rust). All Algorithms implemented in Rust
+35. [Grasscutter](https://github.com/Grasscutters/Grasscutter). A server software reimplementation for a certain anime game.
+36. [hackingtool](https://github.com/Z4nzu/hackingtool). ALL IN ONE Hacking Tool For Hackers
+37. [t3](https://github.com/still-scene/t3). Tooll 3 is an open source software to create realtime motion graphics.
+38. [computer science](https://github.com/ossu/computer-science). 🎓 Path to a free self-taught education in Computer Science!
+39. [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim). neovim lsp plugin
+40. [v2rayN](https://github.com/2dust/v2rayN). A V2Ray client for Windows, support Xray core and v2fly core
+41. [coding interview university](https://github.com/jwasham/coding-interview-university). A complete computer science study plan to become a software engineer.
+42. [tModLoader](https://github.com/tModLoader/tModLoader). A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations
+43. [awesome](https://github.com/sindresorhus/awesome). 😎 Awesome lists about all kinds of interesting topics
+44. [Misc JavaScript Projects](https://github.com/Revadike/Misc-JavaScript-Projects). Userscripts that don't require a separate repository
+45. [Complete Python3 Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp). Course Files for Complete Python 3 Bootcamp Course on Udemy.
+46. [spin](https://github.com/fermyon/spin). Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
+47. [casdoor](https://github.com/casdoor/casdoor). An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
