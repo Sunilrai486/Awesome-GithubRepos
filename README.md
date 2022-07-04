@@ -50,3 +50,4 @@
 45. [Complete Python3 Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp). Course Files for Complete Python 3 Bootcamp Course on Udemy.
 46. [spin](https://github.com/fermyon/spin). Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
 47. [casdoor](https://github.com/casdoor/casdoor). An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
+48. [System design primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
