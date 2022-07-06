@@ -52,3 +52,4 @@
 47. [casdoor](https://github.com/casdoor/casdoor). An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
 48. [System design primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 49. [Every programmer should know](https://github.com/mtdvio/every-programmer-should-know). A collection of (mostly) technical things every software developer should know about
+50. [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code). Short JavaScript code snippets for all your development needs.
