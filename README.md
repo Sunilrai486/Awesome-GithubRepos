@@ -55,3 +55,4 @@
 50. [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code). Short JavaScript code snippets for all your development needs.
 51. [nuxt.js](https://github.com/nuxt/nuxt.js). The Intuitive Vue(2) Framework.
 52. [build your own x](https://github.com/codecrafters-io/build-your-own-x). Master programming by recreating your favorite technologies from scratch.
+53. [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners). 24 Lessons, 12 Weeks, Get Started as a Web Developer
