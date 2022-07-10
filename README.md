@@ -56,3 +56,4 @@
 51. [nuxt.js](https://github.com/nuxt/nuxt.js). The Intuitive Vue(2) Framework.
 52. [build your own x](https://github.com/codecrafters-io/build-your-own-x). Master programming by recreating your favorite technologies from scratch.
 53. [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners). 24 Lessons, 12 Weeks, Get Started as a Web Developer
+54. [cs video courses](https://github.com/Developer-Y/cs-video-courses). List of Computer Science courses with video lectures.
