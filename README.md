@@ -59,3 +59,4 @@
 54. [cs video courses](https://github.com/Developer-Y/cs-video-courses). List of Computer Science courses with video lectures.
 55. [tech interview handbook](https://github.com/yangshun/tech-interview-handbook). 💯 Curated interview preparation materials for busy engineers.
 56. [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS). A book series on JavaScript. @YDKJS on twitter.
+57. [Ventoy](https://github.com/ventoy/Ventoy). A new bootable USB solution.
