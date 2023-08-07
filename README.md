@@ -1,5 +1,5 @@
 # Awesome-GithubRepos
-![AwesomeViewers](https://visitor-badge.glitch.me/badge?page_id=sunilrai486.AwesomeGithubRepos&left_color=green&right_color=red)
+![AwesomeViewers](https://komarev.com/ghpvc/?username=sunilrai486AwesomeGithubRepos&label=Awesome%20viewers&left_color=green&right_color=red&style=flat)
 
 ## This repo contains the list of awesome repo present in github. A tribute to the freely available awesome educational resources.
 
