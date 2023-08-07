@@ -60,3 +60,4 @@
 55. [tech interview handbook](https://github.com/yangshun/tech-interview-handbook). 💯 Curated interview preparation materials for busy engineers.
 56. [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS). A book series on JavaScript. @YDKJS on twitter.
 57. [Ventoy](https://github.com/ventoy/Ventoy). A new bootable USB solution.
+58. [realworld](https://github.com/gothinkster/realworld). "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
